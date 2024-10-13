@@ -1,0 +1,10 @@
+body {
+    font-family: Tahoma, Arial;
+    color: rgb(70, 70, 70);
+    text-align: justify;
+}
+
+img {
+    width: 500px;
+    height: auto
+}
